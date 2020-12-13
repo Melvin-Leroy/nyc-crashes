@@ -28,6 +28,19 @@ We use pandas for cleaning the data, geopy to get some new data.
 - [Pandas](https://pandas.pydata.org/docs/reference/index.html#api)  
 - [Geopy](https://geopy.readthedocs.io/en/stable/)
 
+## To do
+
+The algorithm could be really faster, not using a connected API.
+
+You can see some tries to recover datas from other rows in the dataset in the Test file.
+
+I tried a lot of different other options :
+
+- Retrieve data for borough from locations or streets names;
+
+- Retrieve data from a [geojson](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm) or from a [street dataset](https://streets.planning.nyc.gov/data)
+
+
 -----
 ### Author
 
