@@ -1,0 +1,84 @@
+argon2-cffi==20.1.0
+async-generator==1.10
+attrs==20.3.0
+backcall==0.2.0
+bleach==3.2.1
+certifi==2020.12.5
+cffi==1.14.4
+chardet==3.0.4
+confuse==1.4.0
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+geographiclib==1.50
+geopy==2.0.0
+htmlmin==0.1.12
+idna==2.10
+ImageHash==4.2.0
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi==0.17.2
+Jinja2==2.11.2
+joblib==0.17.0
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-core==4.7.0
+jupyterlab-pygments==0.1.2
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1604322295622/work
+llvmlite==0.35.0
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1602267312178/work
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1605180228501/work
+missingno==0.4.2
+mistune==0.8.4
+nbclient==0.5.1
+nbconvert==6.0.7
+nbformat==5.0.8
+nest-asyncio==1.4.3
+networkx==2.5
+notebook==6.1.5
+numba==0.52.0
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1604945996350/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging==20.7
+pandas==1.1.5
+pandas-profiling==2.9.0
+pandocfilters==1.4.3
+parso==0.7.1
+pexpect==4.8.0
+phik==0.10.0
+pickleshare==0.7.5
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1604748700719/work
+prometheus-client==0.9.0
+prompt-toolkit==3.0.8
+ptyprocess==0.6.0
+pycparser==2.20
+Pygments==2.7.3
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1604321279890/work
+PyWavelets==1.1.1
+PyYAML==5.3.1
+pyzmq==20.0.0
+requests==2.25.0
+reverse-geocoder==1.5.1
+scipy==1.5.4
+seaborn==0.11.0
+Send2Trash==1.5.0
+sip==4.19.13
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+sodapy==2.1.0
+tangled-up-in-unicode==0.0.6
+terminado==0.9.1
+testpath==0.4.4
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1604105045397/work
+tqdm==4.54.1
+traitlets==5.0.5
+urllib3==1.26.2
+visions==0.5.0
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.1
